@@ -1,0 +1,10 @@
+Games played: 17
+Max winning streak: 6
+Current winning streak: 4
+Guess distribution:
+1 guess: 0
+2 guesses: 1
+3 guesses: 3
+4 guesses: 5
+5 guesses: 7
+6 guesses: 0
