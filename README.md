@@ -9,3 +9,9 @@ You can enter a total of six words, meaning you can enter five burner words from
 ---
 
 ![image](readme_image.png)
+
+---
+
+### Required libraries
+
+- random
